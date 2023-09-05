@@ -1,1 +1,5 @@
-
+.in{
+    padding: 5px;
+    border: 3px solid rgb(14, 46, 105);
+    border-radius: 5px;
+}
